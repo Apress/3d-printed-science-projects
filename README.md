@@ -9,7 +9,9 @@ Download the files as a zip using the green button, or clone the repository to y
 ## Releases
 
 Release v1.0 corresponds to the code in the published first edition, without corrections or updates.
+
 Release v1.0.1 contains one bug fix.
+
 Release v2.0 corresponds to the code in the published second edition, without corrections or updates.
 
 ## Contributions
